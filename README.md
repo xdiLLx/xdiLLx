@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Kanban-ToDoList](https://github.com/xdiLLx/Kanban-ToDoList)
 
-- 🌱I'm currently learning / I intend to study. **Python, Oracle,C#,React,SQL Server and Postgree**
+- 🌱 I'm currently learning / I intend to study. **Python, Oracle, C#, React, SQL Server, and PostgreSQL**
 
 - 🔭 I’m currently working on [BackupFiles](https://github.com/xdiLLx/BackupFiles)
 
@@ -20,4 +20,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="left">
+<a <a target="_blank" rel="noopener noreferrer" href="https://github.com/daviladanielc/Delphi-Captcha-Generator/raw/main/img/Delphi.png"><img align="left" alt="Embarcadero Delphi" width="40px" src="https://github.com/daviladanielc/Delphi-Captcha-Generator/raw/main/img/Delphi.png" style="max-width: 100%;"></a> </a>
+<a href="https://firebirdsql.org/" target="_blank" rel="noreferrer"> <img src="https://alchetron.com/cdn/firebird-database-server-badfe7d8-6959-43a3-b4b4-981996dc8c5-resize-750.jpg" alt="firebird" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://icons.veryicon.com/png/o/system/inspur-cloud-icon/rds-mysql.png" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="sqlite" width="40" height="40"/> </a>
+</p>
