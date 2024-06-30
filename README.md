@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel Dill</h1>
 <h3 align="center">Delphi Developer | SQL | Python | POO | MVC | REST API | Git | GitHub</h3>
 
-- 🔭 I’m currently working on [Kanban-ToDoList](https://github.com/xdiLLx/Kanban-ToDoList)
+- 🔭 I’m currently working on [DataBridge](https://github.com/xdiLLx/DataBridge)
 
 - 🌱 I'm currently learning / I intend to study. **Python, Oracle, C#, React, SQL Server, and PostgreSQL**
-
-- 🔭 I’m currently working on [BackupFiles](https://github.com/xdiLLx/BackupFiles)
 
 - 👨‍💻 All of my projects are available at [https://gabrieldill.com](https://gabrieldill.com)
 
